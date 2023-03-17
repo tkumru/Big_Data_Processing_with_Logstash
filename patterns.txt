@@ -1,0 +1,1 @@
+https://github.com/hpcugent/logstash-patterns/tree/master/files
